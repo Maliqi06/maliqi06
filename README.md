@@ -1,6 +1,6 @@
 ### Hi there, I am Andi Maliqi 👋
 
-### DevOps & Software Engineer
+### Software Engineer
 
 <!--
 **Maliqi06/maliqi06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
