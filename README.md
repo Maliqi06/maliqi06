@@ -1,6 +1,6 @@
 ### Hi there, I am Andi Maliqi 👋
 
-### Software Engineer
+### 
 
 Linked in: https://www.linkedin.com/in/andi-maliqi-383870230/
 
